@@ -7,7 +7,7 @@ Niamh O'Neill, Christoph Schran, Stephen J. Cox and Angelos Michaelides
 [arXiv 2022](https://doi.org/10.48550/arXiv.2211.04345)
 
 ## Contents
-* `*/final_model`:
+* `*/model`:
 All parameters of the C-NNP model trained at revPBE-D3 level of theory for NaCl in water
 * `cp2k-input`:
 Example input file for CP2K simulations using the C-NNP model including the Coulomb baseline
